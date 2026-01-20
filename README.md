@@ -22,11 +22,11 @@ Em busca de oportunidades como Desenvolvedor Júnior ou Estagiário na área de 
 ## 📌 Projetos em Destaque
 
 ### 🔹 Extração de Dados com Selenium e MySQL  
-Automação que coleta dados da web, processa com Pandas e armazena em banco MySQL.  
+Automação que coleta dados da web, processa com Pandas e armazena em banco MySQL, otimizando tempo e reduzindo erros manuais no fluxo de dados.  
 🔗 https://github.com/EdiIsonLima/Extracao_de_Dados
 
 ### 🔹 Manipulação e Automação de Preços  
-Projeto focado em análise e organização de dados de preços usando Python.  
+Projeto focado em análise, organização e tratamento de dados de preços utilizando Python e Pandas.  
 🔗 https://github.com/EdiIsonLima/Automacao_e_Manipulacao_de_Precos
 
 ---
